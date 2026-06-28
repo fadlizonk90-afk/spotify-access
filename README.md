@@ -1,2 +1,2 @@
 # spotify-access
-Spotify Auto Bot Client Installer and Releases
+Spotify Installer and Releases
